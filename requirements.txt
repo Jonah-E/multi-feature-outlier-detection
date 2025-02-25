@@ -1,0 +1,9 @@
+numpy
+cdflib
+pandas
+torch
+torchvision
+matplotlib
+seaborn
+pyspedas
+scikit-learn

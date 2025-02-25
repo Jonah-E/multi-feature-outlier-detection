@@ -1,0 +1,8 @@
+figure.figsize : 20, 6
+xtick.direction : out
+axes.labelsize : 22
+axes.titlesize : 22
+axes.labelpad : 20
+legend.fontsize: 22
+xtick.labelsize : 22
+ytick.labelsize : 22
