@@ -1,5 +1,5 @@
-# multi-feature-outlier-detection
-A multi-feature outlier detection algorithm for space plasma data.
+# Multi-Feature Outlier Detection
+A multi-feature outlier detection algorithm for streaming space plasma data.
 
 ## Getting Started
 ### Prerequisites
